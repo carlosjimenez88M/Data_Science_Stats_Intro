@@ -57,7 +57,7 @@ Al finalizar el curso se desarrollará un ejercicio de programación aplicando t
 
 
 
-## Notas de Clase
+## Apuntes de Clase
 
 ## Presentación del curso
 
